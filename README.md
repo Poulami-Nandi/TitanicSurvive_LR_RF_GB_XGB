@@ -7,6 +7,9 @@ In this challenge, we ask you to build a predictive model that answers the quest
 https://www.kaggle.com/competitions/titanic/overview
 ## Accuracy
 Logistic Regression Accuracy: 0.8045
+
 Random Forest Accuracy: 0.8268
+
 Gradient Boosting Accuracy: 0.8045
+
 XGBoost Accuracy: 0.7821
